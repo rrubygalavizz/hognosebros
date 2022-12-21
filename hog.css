@@ -1,0 +1,26 @@
+.social{
+    margin-left: 15%;
+    color: white;
+}
+
+.body{
+    background-color: black;
+    color: white;
+    font-family: serif;
+}
+
+.row{
+    background-image: url(IMG_1082.JPG);
+    margin-right: 0;
+    color: black;
+}
+
+.bi-week{
+    background-image: url(IMG_1082.JPG);
+    margin-right: 0;
+    color: black;
+}
+
+.card{
+    color: black;
+}
